@@ -1,51 +1,58 @@
 [
     {
-      "product_name": "Crfgsfhwf",
-      "product_price": "₱150.00",
-      "product_description": "Flaky and buttery pastries with light and airy layers. Available plain or filled with chocolate or almond paste.",
-      "product_date_added": "2024-02-09"
+        "product_name": "Puto",
+        "product_price": "₱15.00 (per piece)",
+        "product_description": "Soft and fluffy Filipino bread roll, perfect for breakfast or merienda (snack).",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
     },
     {
-      "product_name": "Sdofjf",
-      "product_price": "₱280.00",
-      "product_description": "Artisanal fermented bread with a distinctive tangy flavor and chewy texture. Made with a natural sourdough starter.",
-      "product_date_added": "2024-02-09"
+        "product_name": "Tinapay",
+        "product_price": "₱30.00 (per piece)",
+        "product_description": "Simple Filipino bread, ideal for sandwiches or dipping in coffee or hot chocolate.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
     },
     {
-      "product_name": "Cinnamon Rolls",
-      "product_price": "₱200.00",
-      "product_description": "Sweet, spiral-shaped pastries made from soft and yeasty dough. Filled with a delicious cinnamon and sugar mixture.",
-      "product_date_addedw": "2024-02-09"
+        "product_name": "Suman",
+        "product_price": "₱50.00 (per bundle)",
+        "product_description": "Filipino sticky rice cake wrapped in banana leaves, a traditional delicacy often served with latik (coconut caramel sauce).",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
     },
     {
-      "product_name": "Macarons",
-      "product_price": "₱1,200.00 (per dozen)",
-      "product_description": "Delicate and colorful French sandwich cookies with a crisp exterior and chewy interior. Available in a variety of flavors.",
-      "product_date_added": "2024-02-09"
+        "product_name": "Kakanin Sampler",
+        "product_price": "₱150.00",
+        "product_description": "Assorted Filipino kakanin (rice cakes) including puto, bibingka, and sapin-sapin. Perfect for sharing or enjoying as a dessert.",
+        "product_date_added": "2024-02-12",
+        "expiration_date": "2024-02-19"
     },
     {
-      "product_name": "Biscotti",
-      "product_price": "₱800.00",
-      "product_description": "Twice-baked Italian cookies known for their crisp and crunchy texture. Flavored with almonds and optional chocolate chips or dried fruits.",
-      "product_date_added": "2024-02-08"
+        "product_name": "Taho",
+        "product_price": "₱20.00 (per cup)",
+        "product_description": "Silken tofu topped with arnibal (caramelized sugar syrup) and sago pearls, a popular Filipino street food and breakfast item.",
+        "product_date_added": "2024-02-11",
+        "expiration_date": "2024-02-18"
     },
     {
-      "product_name": "Red Velvet Cupcakes",
-      "product_price": "₱174.50 (per cupcake)",
-      "product_description": "Classic American cupcakes with a vibrant red color and subtle cocoa flavor. Topped with cream cheese frosting.",
-      "product_date_added": "2024-02-08"
+        "product_name": "Bibingka",
+        "product_price": "₱60.00",
+        "product_description": "Filipino rice cake made with galapong (rice flour) and topped with salted egg slices and grated coconut. Traditionally enjoyed during Christmas season.",
+        "product_date_added": "2024-02-11",
+        "expiration_date": "2024-02-18"
     },
     {
-      "product_name": "Apple Pie",
-      "product_price": "₱899.00",
-      "product_description": "Timeless American dessert featuring a flaky pastry crust filled with sweet and spiced apple filling. Best served warm.",
-      "product_date_added": "2024-02-08"
+        "product_name": "Espasol",
+        "product_price": "₱40.00 (per pack)",
+        "product_description": "Filipino rice flour and coconut milk-based snack, shaped into cylinders and coated with toasted rice flour. A delicious and simple treat.",
+        "product_date_added": "2024-02-11",
+        "expiration_date": "2024-02-18"
     },
     {
-      "product_name": "Chocolate Babka",
-      "product_price": "₱549.00",
-      "product_description": "Sweet Eastern European bread with layers of twisted dough and chocolate filling. Rich and decadent, perfect for breakfast or dessert.",
-      "product_date_added": "2024-02-08"
+        "product_name": "Kape",
+        "product_price": "₱100.00 (per pack)",
+        "product_description": "Locally sourced Filipino coffee beans, roasted to perfection. Enjoy a cup of aromatic and flavorful coffee at home.",
+        "product_date_added": "2024-02-11",
+        "expiration_date": "2024-02-18"
     }
-  ]
-  
+]
